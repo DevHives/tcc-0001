@@ -3,8 +3,18 @@ owner: DevHives # Your GitHub organization or username, where this repository li
 repo: tcc-0001 # The name of this repository
 
 sites:
-  - name: Tipperary Co Co
+  - name: Tipperay County Council
     url: https://www.tipperarycoco.ie
+  - name: Tipperary County Council Consultations
+    url: https://consultations.tipperarycoco.ie
+  - name: Tipperary The Place The Time
+    url: https://tipperary.ie
+  - name: Tipperary Tourism
+    url: https://tipperary.com
+  - name: Tipperary Tourism
+    url: https://whatsonintipp.ie
+
+    
 
 
 status-website:
